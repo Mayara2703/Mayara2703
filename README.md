@@ -1,17 +1,63 @@
-### Olá! Eu sou a Mayara ✌️
+## Olá, Eu sou a Mayara ! ✌️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayara-almeida-soares-fernandes-7449a230/)
-[![Hotmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mayaraalmeidasoares@hotmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mayara2703/)
+- 👩‍🎓 Estudando JS e React
+- 📫 Contate-me no e-mail: mayaraalmeidasoares@hotmail.com
 
 
-![MayaraGitHub stats](https://github-readme-stats.vercel.app/api?username=Mayara2703_icons=true&theme=radical)
 
-### Tecnologias que uso no meu dia
+<div style="display: inline_block">
+  <br />
+  <img
+    align="center"
+    alt="mayara-Js"
+    height="30"
+    width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+  />
+    <img
+    align="center"
+    alt="mayara-React"
+    height="30"
+    width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+  />
+  <img
+    align="center"
+    alt="mayara-HTML"
+    height="30"
+    width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+  />
+  <img
+    align="center"
+    alt="mayara-CSS"
+    height="30"
+    width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+  />
+</div>
 
-<div style= "display: Inline_block"><br/>
- <img aline = "center"alt="html5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
- <img aline = "center"alt="ccs" src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img aline = "center"alt="JS" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img aline = "center"alt="react" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+## Social
+
+
+<div>
+  <a href="https://www.instagram.com/mayara2703/" target="_blank"
+    ><img
+      src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      target="_blank"
+  /></a>
+  <a href="mailto:mayaraalmeidasoares@hotmail.com"
+    ><img
+      src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+      target="_blank"
+  /></a>
+  <a
+    href="https://www.linkedin.com/in/mayara-almeida-soares-fernandes-7449a230/"
+    target="_blank"
+    ><img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      target="_blank"
+  /></a>
+  
+  ![Snake animation](https://github.com/Mayara2703/Mayara2703/blob/output/github-contribution-grid-snake.svg)
 </div>
